@@ -2,7 +2,7 @@
 Elixir 101 has programs related to basic language structures 
 
 
-# Elixir 101 Topics
+# Topics
  <br/>Operators
  <br/>Data Types (Atom is bit confusing but soon will be comfortable)
  <br/>Data Structures List, Tuple, Anonymous functions / Closures
