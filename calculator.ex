@@ -12,8 +12,7 @@ defmodule Calculator do
         if number1 && number2 && operator_ do
             if operator_ = "+" do
                 result = number1 + number2
-                IO.puts result
-                # IO.puts "Sum of"  <> " " <> Integer.to_string(number1) <> " and " <> " " <> Integer.to_string(number2) <> " is " <> " " <> Integer.to_string(result)
+                IO.puts "Sum of"  <> " " <> Integer.to_string(number1) <> " and " <> " " <> Integer.to_string(number2) <> " is " <> " " <> Integer.to_string(result)
             end
             if operator_ = "-" do
                 result = number1 - number2
@@ -24,7 +23,7 @@ defmodule Calculator do
                 IO.puts "Mul of"  <> " " <> Integer.to_string(number1) <> " and " <> " " <> Integer.to_string(number2) <> " is " <> " " <> Integer.to_string(result)
             end
             if operator_ = "/" do
-                result = number1 / number2
+                result = div(number1,number2)
                 IO.puts "Div of"  <> " " <> Integer.to_string(number1) <> " and " <> " " <> Integer.to_string(number2) <> " is " <> " " <> Integer.to_string(result)
             end
         else
