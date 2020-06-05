@@ -1,7 +1,7 @@
 # Elixir101
 Elixir 101 has programs related to basic language structures 
 
-<br/>
+
 # Elixir 101 Topics
  <br/>Operators
  <br/>Data Types (Atom is bit confusing but soon will be comfortable)
