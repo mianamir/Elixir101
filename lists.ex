@@ -14,7 +14,8 @@ defmodule Lists do
         IO.write "Tail: "
         IO.inspect tail
 
-        
+        IO.inspect [34, 56], char_lists: :as_lists
+
 
     end
 end
