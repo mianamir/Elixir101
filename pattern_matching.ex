@@ -42,6 +42,24 @@ defmodule PatternMatching do
     end
 
 
+    def do_enums() do
+        
+        Enum.each(1,2,4,5], fn(n) -> IO.puts n end)
+        
+        db_list = Enum.map([1,2,3,4,5], fn(n) -> n * 2 end)
+
+        sum_vals = Enum.reduce([1,2,3,4,5], fn(n, sum) -> n + sum end)
+        IO.puts "Sum: #{sum_vals}"
+
+        IO.inspect Enum.uniq([1,2,3,4,5])
+
+
+        
+
+
+
+    end
+
 
 
 
