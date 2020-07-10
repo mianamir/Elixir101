@@ -2,9 +2,16 @@
 Elixir 101 has programs related to basic language structures 
 
 
-# Topics
+# Language Basics
  <br/>Operators
  <br/>Data Types (Atom is bit confusing but soon will be comfortable)
+ <br/>Operators (esp. =) (IEx)
+ <br/>Modules and functions
+ <br/>Control Flow (if, unless, case, cond, patterns, guards)
+ <br/>Recursion
+ <br/>Enum & Stream
+ <br/>Comprehensions (for)
+ <br/>Sigils
  <br/>Data Structures List, Tuple, Anonymous functions / Closures
  <br/>Pattern matching
  <br/>Case, If / Else, Unless, Cond
@@ -33,4 +40,52 @@ Elixir 101 has programs related to basic language structures
  <br/>Maps, Operations
  <br/>Enums
  <br/>Streams
+ 
+ 
+ <br/>
+ # Project Organization
+ <br/>Mix build tool
+ <br/>Hex dependency management
+ <br/>ExUnit
+ 
+ <br/>
+ # Concurrency
+ <br/>Processes (spawning, linking, monitoring, messaging)
+ <br/>OTP: GenServer
+ <br/>OTP: Supervisor Trees
+ <br/>OTP: Applications
+ <br/>Abstractions: Task & Agent
+ <br/>Nodes
+ 
+ <br/>
+ # Advanced Elixir
+ <br/>Protocols (Including notable stdlib protocols)
+ <br/>Behaviours (differences between behaviours and protocols)
+ <br/>Exceptions
+ <br/>Macros (long episode)
+ <br/>Binary Pattern Matching
+ 
+ 
+ <br/>
+ # Testing in elixir
+ # VCR scripts in Elixir
+ # EX-VCR in Elixir
+ # API development with Elixir
+ # Testing HTTP APIs in Elixir
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
