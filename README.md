@@ -42,13 +42,12 @@ Elixir 101 has programs related to basic language structures
  <br/>Streams
  
  
- <br/>
  # Project Organization
  <br/>Mix build tool
  <br/>Hex dependency management
  <br/>ExUnit
  
- <br/>
+ 
  # Concurrency
  <br/>Processes (spawning, linking, monitoring, messaging)
  <br/>OTP: GenServer
@@ -57,7 +56,7 @@ Elixir 101 has programs related to basic language structures
  <br/>Abstractions: Task & Agent
  <br/>Nodes
  
- <br/>
+ 
  # Advanced Elixir
  <br/>Protocols (Including notable stdlib protocols)
  <br/>Behaviours (differences between behaviours and protocols)
@@ -66,7 +65,7 @@ Elixir 101 has programs related to basic language structures
  <br/>Binary Pattern Matching
  
  
- <br/>
+ 
  # Testing in elixir
  # VCR scripts in Elixir
  # EX-VCR in Elixir
