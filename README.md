@@ -3,6 +3,9 @@ Elixir 101 has programs related to basic language structures
 
 
 # Language Basics
+ <br/>Elixir is a functional programming language
+ <br/>Everything in Elixir, operation/function/block is an expression, there always have an return statement
+ <br/>Main idea expression is that when there is Elixir code then there will be return something
  <br/>Operators
  <br/>Data Types (Atom is bit confusing but soon will be comfortable)
  <br/>Operators (esp. =) (IEx)
