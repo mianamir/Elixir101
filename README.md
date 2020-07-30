@@ -45,6 +45,7 @@ Elixir 101 has programs related to basic language structures
  <br/>Maps, Operations
  <br/>Enums
  <br/>Streams
+ <br/> Generic Server, OTP, Register Processes
  
  
  # Project Organization
