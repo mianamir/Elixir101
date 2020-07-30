@@ -14,6 +14,7 @@ Elixir 101 has programs related to basic language structures
  <br/>Control Flow (if, unless, case, cond, patterns, guards)
  <br/>Recursion, Tail Calls
  <br/>Comprehension, Enum.each(list, lambda function), Enum.map(list, lambda function), Enum.reduce(list, lambda function)
+ <br/>Further comprehension concepts: for x <- list, do: no * no, for x <- 1..9, y <- 1..9, into: %{}, do: {{x,y}, x * y}
  <br/>Enum & Stream
  <br/>Comprehensions (for)
  <br/>Sigils
