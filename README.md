@@ -12,7 +12,8 @@ Elixir 101 has programs related to basic language structures
  <br/>Operators (esp. =) (IEx)
  <br/>Modules and functions
  <br/>Control Flow (if, unless, case, cond, patterns, guards)
- <br/>Recursion
+ <br/>Recursion, Tail Calls
+ <br/>Comprehension, Enum.each(list, lambda function), Enum.map(list, lambda function), Enum.reduce(list, lambda function)
  <br/>Enum & Stream
  <br/>Comprehensions (for)
  <br/>Sigils
@@ -32,7 +33,6 @@ Elixir 101 has programs related to basic language structures
  <br/>Function/Method overloading using Guards in Elixir
  <br/>Guards
  <br/>Default args
- <br/>Recursion
  Processes 
  <br/>Alias
  <br/>Import
